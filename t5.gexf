@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2025-08-01">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph mode="slice" defaultedgetype="directed" timerepresentation="timestamp" timestamp="5">
+    <attributes class="node" mode="static">
+      <attribute id="type" title="type" type="string"/>
+      <attribute id="image" title="image" type="string"/>
+      <attribute id="lat" title="lat" type="double"/>
+      <attribute id="lng" title="lng" type="double"/>
+    </attributes>
+    <nodes>
+      <node id="Fox" label="Fox">
+        <attvalues>
+          <attvalue for="type" value="person"/>
+          <attvalue for="image" value="https://github.com/wayou/anonymous-animals/blob/master/icons/Fox.png"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-427.21658" y="-369.88928"/>
+      </node>
+      <node id="suze_47.21_2.14" label="suze">
+        <attvalues>
+          <attvalue for="type" value="drink"/>
+          <attvalue for="lat" value="47.21167963"/>
+          <attvalue for="lng" value="2.143737591"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-442.0546" y="-174.87694"/>
+      </node>
+      <node id="Buffalo" label="Buffalo">
+        <attvalues>
+          <attvalue for="type" value="person"/>
+          <attvalue for="image" value="https://github.com/wayou/anonymous-animals/blob/master/icons/Buffalo.png"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-143.68246" y="310.50327"/>
+      </node>
+      <node id="blonde beer_50.77_4.55" label="blonde beer">
+        <attvalues>
+          <attvalue for="type" value="drink"/>
+          <attvalue for="lat" value="50.76884984"/>
+          <attvalue for="lng" value="4.547899428"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="119.531044" y="-499.91394"/>
+      </node>
+      <node id="blonde beer_47.21_2.14" label="blonde beer">
+        <attvalues>
+          <attvalue for="type" value="drink"/>
+          <attvalue for="lat" value="47.21167963"/>
+          <attvalue for="lng" value="2.143737591"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="163.5571" y="-121.645035"/>
+      </node>
+      <node id="Frog" label="Frog">
+        <attvalues>
+          <attvalue for="type" value="person"/>
+          <attvalue for="image" value="https://github.com/wayou/anonymous-animals/blob/master/icons/Frog.png"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="530.6875" y="-486.72238"/>
+      </node>
+      <node id="other_50.77_4.55" label="other">
+        <attvalues>
+          <attvalue for="type" value="drink"/>
+          <attvalue for="lat" value="50.76884984"/>
+          <attvalue for="lng" value="4.547899428"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-235.17108" y="392.66788"/>
+      </node>
+      <node id="other_47.21_2.14" label="other">
+        <attvalues>
+          <attvalue for="type" value="drink"/>
+          <attvalue for="lat" value="47.21167963"/>
+          <attvalue for="lng" value="2.143737591"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-22.239769" y="-477.8541"/>
+      </node>
+      <node id="other_54.19_-2.04" label="other">
+        <attvalues>
+          <attvalue for="type" value="drink"/>
+          <attvalue for="lat" value="54.19333933"/>
+          <attvalue for="lng" value="-2.038597589"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="169.4144" y="341.24295"/>
+      </node>
+      <node id="other_39.18_-100.97" label="other">
+        <attvalues>
+          <attvalue for="type" value="drink"/>
+          <attvalue for="lat" value="39.17886994"/>
+          <attvalue for="lng" value="-100.9674276"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-4.0687795" y="-207.11452"/>
+      </node>
+      <node id="other_43.01_12.44" label="other">
+        <attvalues>
+          <attvalue for="type" value="drink"/>
+          <attvalue for="lat" value="43.01220371"/>
+          <attvalue for="lng" value="12.43767334"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-111.02111" y="368.25473"/>
+      </node>
+      <node id="Bat" label="Bat">
+        <attvalues>
+          <attvalue for="type" value="person"/>
+          <attvalue for="image" value="https://github.com/wayou/anonymous-animals/blob/master/icons/Bat.png"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="143.0726" y="207.32066"/>
+      </node>
+      <node id="Dingo" label="Dingo">
+        <attvalues>
+          <attvalue for="type" value="person"/>
+          <attvalue for="image" value="https://github.com/wayou/anonymous-animals/blob/master/icons/Dingo.png"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="469.3665" y="194.30138"/>
+      </node>
+      <node id="white wine_47.21_2.14" label="white wine">
+        <attvalues>
+          <attvalue for="type" value="drink"/>
+          <attvalue for="lat" value="47.21167963"/>
+          <attvalue for="lng" value="2.143737591"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-379.67496" y="291.62515"/>
+      </node>
+      <node id="Anteater" label="Anteater">
+        <attvalues>
+          <attvalue for="type" value="person"/>
+          <attvalue for="image" value="https://github.com/wayou/anonymous-animals/blob/master/icons/Anteater.png"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-283.91702" y="-283.97937"/>
+      </node>
+      <node id="cider_47.21_2.14" label="cider">
+        <attvalues>
+          <attvalue for="type" value="drink"/>
+          <attvalue for="lat" value="47.21167963"/>
+          <attvalue for="lng" value="2.143737591"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="437.0875" y="102.113815"/>
+      </node>
+      <node id="Armadillo" label="Armadillo">
+        <attvalues>
+          <attvalue for="type" value="person"/>
+          <attvalue for="image" value="https://github.com/wayou/anonymous-animals/blob/master/icons/Armadillo.png"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="16.329689" y="413.9656"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="e1" source="Fox" target="suze_47.21_2.14"/>
+      <edge id="e2" source="Buffalo" target="blonde beer_50.77_4.55" weight="2.0"/>
+      <edge id="e3" source="Buffalo" target="blonde beer_47.21_2.14" weight="2.0"/>
+      <edge id="e4" source="Frog" target="other_50.77_4.55"/>
+      <edge id="e5" source="Frog" target="other_47.21_2.14"/>
+      <edge id="e6" source="Frog" target="other_54.19_-2.04"/>
+      <edge id="e7" source="Frog" target="other_39.18_-100.97"/>
+      <edge id="e8" source="Frog" target="other_43.01_12.44"/>
+      <edge id="e11" source="Bat" target="suze_47.21_2.14"/>
+      <edge id="e12" source="Dingo" target="white wine_47.21_2.14"/>
+      <edge id="e13" source="Anteater" target="cider_47.21_2.14"/>
+      <edge id="e14" source="Armadillo" target="other_50.77_4.55"/>
+      <edge id="e15" source="Armadillo" target="other_47.21_2.14"/>
+      <edge id="e16" source="Armadillo" target="other_54.19_-2.04"/>
+      <edge id="e17" source="Armadillo" target="other_39.18_-100.97"/>
+      <edge id="e18" source="Armadillo" target="other_43.01_12.44"/>
+    </edges>
+  </graph>
+</gexf>

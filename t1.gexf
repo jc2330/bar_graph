@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2025-08-01">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph mode="slice" defaultedgetype="directed" timerepresentation="timestamp" timestamp="1">
+    <attributes class="node" mode="static">
+      <attribute id="type" title="type" type="string"/>
+      <attribute id="image" title="image" type="string"/>
+      <attribute id="lat" title="lat" type="double"/>
+      <attribute id="lng" title="lng" type="double"/>
+    </attributes>
+    <nodes>
+      <node id="Alligator" label="Alligator">
+        <attvalues>
+          <attvalue for="type" value="person"/>
+          <attvalue for="image" value="https://github.com/wayou/anonymous-animals/blob/master/icons/Alligator.png"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="62.498497" y="-10.6670885"/>
+      </node>
+      <node id="blonde beer_50.77_4.55" label="blonde beer">
+        <attvalues>
+          <attvalue for="type" value="drink"/>
+          <attvalue for="lat" value="50.76884984"/>
+          <attvalue for="lng" value="4.547899428"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-136.42722" y="-296.0882"/>
+      </node>
+      <node id="blonde beer_47.21_2.14" label="blonde beer">
+        <attvalues>
+          <attvalue for="type" value="drink"/>
+          <attvalue for="lat" value="47.21167963"/>
+          <attvalue for="lng" value="2.143737591"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-196.86377" y="-181.65823"/>
+      </node>
+      <node id="Anteater" label="Anteater">
+        <attvalues>
+          <attvalue for="type" value="person"/>
+          <attvalue for="image" value="https://github.com/wayou/anonymous-animals/blob/master/icons/Anteater.png"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-168.67593" y="456.76788"/>
+      </node>
+      <node id="cider_47.21_2.14" label="cider">
+        <attvalues>
+          <attvalue for="type" value="drink"/>
+          <attvalue for="lat" value="47.21167963"/>
+          <attvalue for="lng" value="2.143737591"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="454.17062" y="-24.422642"/>
+      </node>
+      <node id="Armadillo" label="Armadillo">
+        <attvalues>
+          <attvalue for="type" value="person"/>
+          <attvalue for="image" value="https://github.com/wayou/anonymous-animals/blob/master/icons/Armadillo.png"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="456.7513" y="470.79138"/>
+      </node>
+      <node id="red wine_47.21_2.14" label="red wine">
+        <attvalues>
+          <attvalue for="type" value="drink"/>
+          <attvalue for="lat" value="47.21167963"/>
+          <attvalue for="lng" value="2.143737591"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="170.71939" y="-59.111637"/>
+      </node>
+      <node id="Auroch" label="Auroch">
+        <attvalues>
+          <attvalue for="type" value="person"/>
+          <attvalue for="image" value="https://github.com/wayou/anonymous-animals/blob/master/icons/Auroch.png"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="60.60354" y="292.0935"/>
+      </node>
+      <node id="other_50.77_4.55" label="other">
+        <attvalues>
+          <attvalue for="type" value="drink"/>
+          <attvalue for="lat" value="50.76884984"/>
+          <attvalue for="lng" value="4.547899428"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-423.2699" y="-259.33347"/>
+      </node>
+      <node id="other_47.21_2.14" label="other">
+        <attvalues>
+          <attvalue for="type" value="drink"/>
+          <attvalue for="lat" value="47.21167963"/>
+          <attvalue for="lng" value="2.143737591"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-399.221" y="-71.19337"/>
+      </node>
+      <node id="other_54.19_-2.04" label="other">
+        <attvalues>
+          <attvalue for="type" value="drink"/>
+          <attvalue for="lat" value="54.19333933"/>
+          <attvalue for="lng" value="-2.038597589"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-223.42902" y="25.328426"/>
+      </node>
+      <node id="other_39.18_-100.97" label="other">
+        <attvalues>
+          <attvalue for="type" value="drink"/>
+          <attvalue for="lat" value="39.17886994"/>
+          <attvalue for="lng" value="-100.9674276"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-151.87573" y="-457.2861"/>
+      </node>
+      <node id="other_43.01_12.44" label="other">
+        <attvalues>
+          <attvalue for="type" value="drink"/>
+          <attvalue for="lat" value="43.01220371"/>
+          <attvalue for="lng" value="12.43767334"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="234.35226" y="-352.37827"/>
+      </node>
+      <node id="Axolotl" label="Axolotl">
+        <attvalues>
+          <attvalue for="type" value="person"/>
+          <attvalue for="image" value="https://github.com/wayou/anonymous-animals/blob/master/icons/Axolotl.png"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="260.66702" y="467.15784"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="e1" source="Alligator" target="blonde beer_50.77_4.55"/>
+      <edge id="e2" source="Alligator" target="blonde beer_47.21_2.14"/>
+      <edge id="e3" source="Anteater" target="cider_47.21_2.14"/>
+      <edge id="e4" source="Armadillo" target="red wine_47.21_2.14"/>
+      <edge id="e5" source="Auroch" target="other_50.77_4.55"/>
+      <edge id="e6" source="Auroch" target="other_47.21_2.14"/>
+      <edge id="e7" source="Auroch" target="other_54.19_-2.04"/>
+      <edge id="e8" source="Auroch" target="other_39.18_-100.97"/>
+      <edge id="e9" source="Auroch" target="other_43.01_12.44"/>
+      <edge id="e10" source="Axolotl" target="blonde beer_50.77_4.55"/>
+      <edge id="e11" source="Axolotl" target="blonde beer_47.21_2.14"/>
+    </edges>
+  </graph>
+</gexf>
